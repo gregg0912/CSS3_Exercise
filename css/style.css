@@ -1,0 +1,79 @@
+#navigation{
+	list-style-type: none; 
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+#navigation:hover{
+
+}
+#classes_bar{
+	background:#99ccff;
+	border: 3px solid #fff;
+	width: 15%;
+	-o-box-shadow:0 3px 4px rgba(0,0,0,.5);
+	-moz-box-shadow:0 3px 4px rgba(0,0,0,.5);
+	-webkit-box-shadow:0 3px 4px rgba(0,0,0,.5);
+	box-shadow: 0 3px 4px rgba(0,0,0,.5);
+	padding: 20px 40px;
+}
+#content{
+
+}
+#footer{
+
+
+}
+#announcements{
+	padding: 20px 20px;
+	background: #6699ff;
+	border: 3px solid #fff;
+	-o-box-shadow:0 3px 4px rgba(0,0,0,.5);
+	-moz-box-shadow:0 3px 4px rgba(0,0,0,.5);
+	-webkit-box-shadow:0 3px 4px rgba(0,0,0,.5);
+	box-shadow: 0 3px 4px rgba(0,0,0,.5);
+
+}
+h1,h2{
+	font-family: amazingInfographic;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	font-size: 30px;
+}
+a{
+	color: #ccff33;
+	-webkit-transition: color .3s ease-out;
+	background: #0a99ae;
+	padding: 3px 3px;
+	font-weight: bold;
+	font-family: crapaudPetit;
+	width: 15%;
+}
+a:hover{
+	color: #ff6600;
+	background: #333399;
+}
+@font-face{
+	font-family: deliciousSmallCaps;
+	src: url("delicious-123/Delicious-SmallCaps.otf") format("opentype");
+}
+
+@font-face{
+	font-family: crapaudPetit;
+	src: url("crapaud/crapaud_petit.ttf") format("truetype");
+}
+@font-face{
+	font-family: amazingInfographic;
+	src: url("amazing_infographic/Amazing Infographic@ Free.otf") format("opentype");
+}
+/*border-nav a{
+	border-bottom: 3px solid #e83119
+	-webkit-transition: border .3s ease-out;
+}
+border-nav a:hover{
+	border-bottom: 50px solid #0a99ae
+}*/
