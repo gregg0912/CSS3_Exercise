@@ -7,16 +7,7 @@
 #navigation:hover{
 
 }
-#classes_bar{
-	background:#99ccff;
-	border: 3px solid #fff;
-	width: 15%;
-	-o-box-shadow:0 3px 4px rgba(0,0,0,.5);
-	-moz-box-shadow:0 3px 4px rgba(0,0,0,.5);
-	-webkit-box-shadow:0 3px 4px rgba(0,0,0,.5);
-	box-shadow: 0 3px 4px rgba(0,0,0,.5);
-	padding: 20px 40px;
-}
+
 #content{
 
 }
